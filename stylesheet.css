@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Ready to Party';
+    src: url('ReadytoParty.woff2') format('woff2'),
+        url('ReadytoParty.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
